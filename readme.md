@@ -1,6 +1,6 @@
 # Here is Vlad's Vasinev Page 😄
 
-## commited HTML-writer 💻
+## committed HTML-writer 💻
 
 ## Education:
 - Moscow Institute of Electronic Technology, 2023 - Bachelor's degree 🏫
