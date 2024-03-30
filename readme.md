@@ -1,6 +1,6 @@
 # Here is Vlad's Vasinev Page 😄
 
-## commited Frontend-developer 💻
+## commited Frontend-developer, 23 years old 💻
 
 ## Education:
 - Moscow Institute of Electronic Technology, 2023 - Bachelor's degree 🏫
@@ -8,7 +8,9 @@
 ## Skills: 
 
 - HTML 
+    - Pug 🐶
 - CSS 
+    - Sass 📃
 - JS
 - React 
 - B2 English level 
