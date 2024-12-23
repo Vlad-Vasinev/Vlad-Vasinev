@@ -21,6 +21,6 @@
 
 ### Hobies:
 
-- English and German languages learning 👨‍🎓
-- True crime on YT, like "TrueBlue Streaming" 📺
+- English and German learning 👨‍🎓
+- Crime and Investigation, like "TruBlu Streaming" 📺
 - Starcraft 2 🎮
