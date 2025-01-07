@@ -23,4 +23,4 @@
 
 - English and German learning 👨‍🎓
 - Crime and Investigation, like "TruBlu Streaming" 📺
-- Starcraft 2 🎮
+- Nixie clock 🕙
