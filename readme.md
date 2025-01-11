@@ -4,7 +4,7 @@
 
 ## Education:
 - Moscow Institute of Electronic Technology, 2023 - Bachelor's degree 🏫
-  - [Ausbildung](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/ausbildung_vasinev_ger.pdf)
+  - [Education](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/ausbildung_vasinev_ger.pdf)
 
 ## Skills: 
 
