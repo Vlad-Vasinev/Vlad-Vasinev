@@ -1,6 +1,4 @@
 # Here is Vlad's Vasinev Page 🥰
-  - <img src="[https://github.com/favicon.ico](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/vlad.jpeg)" width="100">
-- ![vlad_v](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/vlad.jpeg | width=100)
 
 ## commited Frontend-developer, 23 years old 💻
 
