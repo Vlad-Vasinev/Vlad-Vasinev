@@ -1,4 +1,5 @@
 # Here is Vlad's Vasinev Page 🥰
+- ![vlad_v](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/vlad.jpeg)
 
 ## commited Frontend-developer, 23 years old 💻
 
