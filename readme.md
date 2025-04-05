@@ -20,8 +20,8 @@
     - [Duolingo English Test.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/Duolingo%20English%20Test.pdf)
     - [e-cert.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/EF%20SET%20Certificate.pdf)
 - German A2
-    - [Goethe-A1.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA1.pdf)
-    - [Goethe-A2.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA2.pdf)
+    - [Goethe-ZertifikatA1.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA1.pdf)
+    - [Goethe-ZertifikatA2.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA2.pdf)
 
 ### Hobies:
 
