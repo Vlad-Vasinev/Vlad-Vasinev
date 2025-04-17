@@ -26,5 +26,5 @@
 ### Hobies:
 
 - English and German learning 👨‍🎓
-- Crime and Investigation, like "TruBlu Streaming" 📺
+- Crime and Investigation 📺
 - Nixie clock 🕙
