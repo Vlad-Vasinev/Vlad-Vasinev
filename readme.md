@@ -4,8 +4,9 @@
 ## commited Frontend-developer, 23 years old 💻
 
 ## Education:
-- Moscow Institute of Electronic Technology, 2023 - Bachelor's degree 🏫
-  - [Education](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/ausbildung_vasinev_ger.pdf)
+- Moscow Institute of Electronic Technology, 2023 - Bachelor's degree 🏫 
+  - [Diploma](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/7c376c511dafceacbc1deed8de657d54332833ef/Diplom_ger.pdf)
+  - [Anabin](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/ausbildung_vasinev_ger.pdf)
 
 ## Skills: 
 
