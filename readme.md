@@ -23,9 +23,3 @@
 - German A2
     - [Goethe-ZertifikatA1.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA1.pdf)
     - [Goethe-ZertifikatA2.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA2.pdf)
-
-### Hobies:
-
-- English and German learning 👨‍🎓
-- Crime and Investigation 📺
-- Nixie clock 🕙
