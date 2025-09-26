@@ -16,8 +16,9 @@
     - Sass 📃
 - JS
     - React 👨‍💻
-- Programming
+- Programming 
     - [rs-school.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/rs_school_certificate.pdf)
+    - [github](https://github.com/Vlad-Vasinev/rs-react-2025-q3)
 - English B2
     - [e-cert.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/e-cert.pdf)
     - [Duolingo English Test.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/Duolingo%20English%20Test.pdf)
@@ -26,5 +27,6 @@
     - [Goethe-ZertifikatA1.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA1.pdf)
     - [Goethe-ZertifikatA2.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA2.pdf)
     - [Goethe-ZertifikatB1.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheB1.pdf)
+
 
 
