@@ -8,7 +8,7 @@
   - [Diploma](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/7c376c511dafceacbc1deed8de657d54332833ef/Diplom_ger.pdf)
   - [Anabin](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/ausbildung_vasinev_ger.pdf)
 
-## Skills: 
+## Skills:  
 
 - HTML 
     - Pug 🐶
@@ -16,6 +16,8 @@
     - Sass 📃
 - JS
     - React 👨‍💻
+- Programming
+    - [rs-school.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/rs_school_certificate.pdf)
 - English B2
     - [e-cert.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/e-cert.pdf)
     - [Duolingo English Test.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/Duolingo%20English%20Test.pdf)
@@ -24,4 +26,5 @@
     - [Goethe-ZertifikatA1.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA1.pdf)
     - [Goethe-ZertifikatA2.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheA2.pdf)
     - [Goethe-ZertifikatB1.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheB1.pdf)
+
 
