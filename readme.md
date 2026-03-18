@@ -22,7 +22,7 @@
 - Programming 
     - [RS School 2025 Q3.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/rs_school_certificate.pdf)
     - [github](https://github.com/Vlad-Vasinev/rs-react-2025-q3)
-- English B2
+- English C1
     - [e-cert.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/e-cert.pdf)
     - [Duolingo English Test.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/Duolingo%20English%20Test.pdf)
     - [EF SET Certificate.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/EF%20SET%20Certificate.pdf)
