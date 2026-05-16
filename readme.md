@@ -1,7 +1,7 @@
 # Vladislav Vasinev🥰
 <img src="https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/vlad.jpeg" width="150">
 
-## commited Frontend-developer, 24 years old 💻
+## commited Frontend-developer, 24 years old, Berlin 💻
 
 ## Education:
 - Moscow Institute of Electronic Technology, 2023 - Bachelor's degree 🏫 
