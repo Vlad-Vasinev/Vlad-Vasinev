@@ -29,6 +29,8 @@
 - German B2 in preparation (exam August 2026)
     - [Goethe-ZertifikatB1.pdf(Lesen)](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheB1.pdf)
     - [Goethe-ZertifikatB1.pdf(Schreiben)](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goethe_b1_schreiben.pdf)
+    - [Goethe-ZertifikatB1.pdf(Sprechen)](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/Goethe_B1_Sprechen.pdf)
+    - [Goethe-ZertifikatB1.pdf(Hören)](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/horen.pdf)
 
 
 
