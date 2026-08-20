@@ -24,7 +24,7 @@
     - [github](https://github.com/Vlad-Vasinev/rs-react-2025-q3)
 - English C1
     - [EF SET Certificate.pdf](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/EF%20SET%20Certificate.pdf)
-- German C1 in preparation (exam September 2026)
+- German C1 in preparation (exam in September 14th 2026)
     - [Goethe-ZertifikatB2.pdf(Sprechen)](https://github.com/Vlad-Vasinev/vladresume/blob/main/images/certificates/B2_Sprechen.pdf)
     - [Goethe-ZertifikatB1.pdf(Lesen)](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goetheB1.pdf)
     - [Goethe-ZertifikatB1.pdf(Schreiben)](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/goethe_b1_schreiben.pdf)
